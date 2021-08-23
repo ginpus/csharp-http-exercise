@@ -1,0 +1,16 @@
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\csharp-http-exercise.exe
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\csharp-http-exercise.deps.json
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\csharp-http-exercise.runtimeconfig.json
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\csharp-http-exercise.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\csharp-http-exercise.dll
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\ref\csharp-http-exercise.dll
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\bin\Debug\net5.0\csharp-http-exercise.pdb
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.dll
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\ref\csharp-http-exercise.dll
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.pdb
+F:\Desktop\dotNET\C#\8.23\csharp-http-exercise\csharp-http-exercise\csharp-http-exercise\obj\Debug\net5.0\csharp-http-exercise.genruntimeconfig.cache
